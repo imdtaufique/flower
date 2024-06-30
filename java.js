@@ -6,5 +6,5 @@ onload = () => {
 };
 
 document.getElementById('forgiveButton').addEventListener('click', function() {
-  alert('I hope you can forgive me. I love you.');
+  alert('Sorry na babyyyyyy.. I love you.');
 });
